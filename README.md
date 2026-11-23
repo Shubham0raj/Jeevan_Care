@@ -2,6 +2,11 @@
 
 JeevanCare is a full-stack healthcare appointment and clinic queue management web application. It connects patients, doctors, and administrators through a single platform for discovering doctors, booking appointments, generating walk-in tokens, and managing clinic operations.
 
+## 🌐 Live Demo
+
+**Visit JeevanCare:** [Click Here](jeevan-care-theta.vercel.app)
+
+
 ## Core Features
 
 ### Patient
@@ -102,7 +107,7 @@ Install the following before running the project:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <REPOSITORY_URL>
 cd jeevanCare
 ```
 
